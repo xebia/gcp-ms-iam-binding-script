@@ -11,8 +11,8 @@ To simplify permission reviews, we created a bash script to generate a quick and
    ```bash
    chmod +x export_permissions.sh
 
-## Execute the Script: Run the script with:
-./export_permissions.sh
+## Execute the Script:
+**Run the script with**: './export_permissions.sh'
 
 ##Disclaimer:
-This `README.md` provides a clean and organized overview of your script, with a step-by-step guide for users. Let me know if any additional details are needed!
+**This `README.md` provides a clean and organized overview of your script, with a step-by-step guide for users. Let me know if any additional details are needed**!
