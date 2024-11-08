@@ -1,0 +1,4 @@
+﻿Resource Type,Resource ID,Resource Name,Member,Role
+Organization,012345678910,organization.eu,group:org-browsers@organization.eu,organizations/123456789/roles/browser
+Project,project-dev,Project-Dev,user:user1@organization.eu,roles/owner
+Folder,12345678910,production,group:compute-admins@organization.eu,roles/compute.admin
