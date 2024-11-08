@@ -76,6 +76,8 @@ process_folder() {
     echo "Processing Project: $project ($project_name)"
     project_policy=$(gcloud projects get-iam-policy "$project" --format=json)
     process_policy "Project" "$project" "$project_name" "$project_policy"
+
+    ## IN CASE NEEDED - Add your resource-level policies here ##
   done
 
   # Recursively process any subfolders
