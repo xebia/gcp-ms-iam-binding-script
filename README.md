@@ -1,6 +1,7 @@
 # GCP IAM Binding Script
 
-To simplify permission reviews, we created a bash script to generate a quick and thorough overview of IAM bindings/roles across Google Cloud Platform. You can run this script using Google’s Cloud Shell.
+To simplify permission reviews, we created a bash script to generate a quick and thorough overview of IAM bindings/roles across Google Cloud Platform. Take into account that to be able to run this script in the Google cloud shell, your account needs to have the roles/iam.securityReviewer permission on organizational level.
+
 
 ## Steps
 
